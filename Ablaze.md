@@ -20,6 +20,6 @@
 | Spencer | Caron | WSBAC626-76 | TekWSBAC626! |
 | Khalil | Harper | WSBAC626-77 | TekWSBAC626! |
 | Michael | Okonski | WSBAC626-78 | TekWSBAC626! |
-| TBD | TBD | WSBAC626-79 | TekWSBAC626! |
-| TBD | TBD | WSBAC626-80 | TekWSBAC626! |
+| Andy | Liu | WSBAC626-79 | TekWSBAC626! |
+| Carson | Simmons | WSBAC626-80 | TekWSBAC626! |
 | Instructor |  | WSBAC626-81 | TekWSBAC626! |

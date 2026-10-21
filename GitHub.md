@@ -20,6 +20,6 @@
 | Spencer | Caron | IIS-GHCStudent77 | Tr@ininG2026 | https://innovation-in-software.github.io/kaur1021/ | iis-f9gz-us5b |
 | Khalil | Harper | IIS-GHCStudent78 | Tr@ininG2026 | https://innovation-in-software.github.io/kaur1021/ | iis-f9gz-us5b |
 | Michael | Okonski | IIS-GHCStudent79 | Tr@ininG2026 | https://innovation-in-software.github.io/kaur1021/ | iis-f9gz-us5b |
-| TBD | TBD | IIS-GHCStudent80 | Tr@ininG2026 | https://innovation-in-software.github.io/kaur1021/ | iis-f9gz-us5b |
-| TBD | TBD | IIS-GHCStudent82 | Tr@ininG2026 | https://innovation-in-software.github.io/kaur1021/ | iis-f9gz-us5b |
+| Andy | Liu | IIS-GHCStudent80 | Tr@ininG2026 | https://innovation-in-software.github.io/kaur1021/ | iis-f9gz-us5b |
+| Carson | Simmons | IIS-GHCStudent82 | Tr@ininG2026 | https://innovation-in-software.github.io/kaur1021/ | iis-f9gz-us5b |
 | Instructor |  | IIS-GHCStudent84 | Tr@ininG2026 | https://innovation-in-software.github.io/kaur1021/ | iis-f9gz-us5b |
