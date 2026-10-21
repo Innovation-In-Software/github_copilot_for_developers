@@ -22,9 +22,9 @@ Find your name or your lab VM, then sign in to GitHub **inside your lab VM**:
 | S13 | Dan Faloshey | WSBAC626-73 | TekWSBAC626! | IIS-GHCStudent74 | Tr@ininG2026 |
 | S14 | Ellie Young | WSBAC626-74 | TekWSBAC626! | IIS-GHCStudent75 | Tr@ininG2026 |
 | S15 | Harley Bellan | WSBAC626-75 | TekWSBAC626! | IIS-GHCStudent76 | Tr@ininG2026 |
-| S16 | Spencer Caron | WSBAC626-76 | TekWSBAC626! | IIS-GHCStudent77 | Tr@ininG2026 |
+| S16 | Spencer Caron | WSBAC626-76 | TekWSBAC626! | IIS-GHCStudent18 | Tr@ininG2026 |
 | S17 | Khalil Harper | WSBAC626-77 | TekWSBAC626! | IIS-GHCStudent78 | Tr@ininG2026 |
-| S18 | Michael Okonski | WSBAC626-78 | TekWSBAC626! | IIS-GHCStudent79 | Tr@ininG2026 |
+| S18 | Michael Okonski | WSBAC626-78 | TekWSBAC626! | IIS-GHCStudent21 | Tr@ininG2026 |
 | S19 | TBD TBD | WSBAC626-79 | TekWSBAC626! | IIS-GHCStudent80 | Tr@ininG2026 |
 | S20 | TBD TBD | WSBAC626-80 | TekWSBAC626! | IIS-GHCStudent17 | Tr@ininG2026 |
 | I01 | Instructor | WSBAC626-81 | TekWSBAC626! | IIS-GHCStudent84 | Tr@ininG2026 |
